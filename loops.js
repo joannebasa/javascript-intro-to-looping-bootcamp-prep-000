@@ -1,5 +1,3 @@
-var array = [];
-
 
   for (let n = 0; n < 25; n++) {
     if (n = 1) {
