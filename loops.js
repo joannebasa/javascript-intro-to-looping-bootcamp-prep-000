@@ -1,4 +1,4 @@
-
+var array = [];
 
 function for loop(array) {
   for (let n = 0; n < 25; n++) {
