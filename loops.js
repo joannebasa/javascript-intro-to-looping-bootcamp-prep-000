@@ -1,7 +1,7 @@
 function forLoop (array) {
-  for (let i = 0; i < 25; i++)
+  for (let n = 0; n < 25; n++)
 
-  if (i === 1 ) {
+  if (n === 1 ) {
 
     array.push ("I am 1 strange loop");
 
@@ -12,7 +12,6 @@ function forLoop (array) {
 
  return array;
 }
-
 
 function whileLoop(n) {
   while (n > 0) {
